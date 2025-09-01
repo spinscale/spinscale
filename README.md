@@ -1,1 +1,1 @@
-Check out my blog at [spinscale.de](https://spinscale.de). Also follow me on <a rel="me" href="https://mastodon.social/@spinscale">Mastodon</a> or [Twitter](https://twitter.com/spinscale).
+Check out my blog at [spinscale.de](https://spinscale.de). Also follow me on [BlueSky](https://bsky.app/profile/spinscale.bsky.social) or <a rel="me" href="https://mastodon.social/@spinscale">Mastodon</a>.
